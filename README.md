@@ -7,7 +7,7 @@ If you want to see how spring-data-elasticsearch interact with Elasticsearch Eng
 
 
 ## Step 1 Download the code from github
-```git clone https://github.com/RajeshBhojwani/spring-boot-elasticsearch.git ```
+```git clone https://github.com/RajeshBhojwani/spring-boot-standalone-elasticsearch.git ```
 
 ## Step 2 Build the project
 ```mvn clean install```
