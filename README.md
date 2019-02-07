@@ -47,7 +47,7 @@ http://localhost:8102/rest/users/delete/1
 
 
 
-
+For detail explanation of this project check this blog - https://www.rajeshbhojwani.co.in/2018/12/spring-boot-elasticsearch.html
 
 
 
